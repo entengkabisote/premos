@@ -1,0 +1,7 @@
+{
+    "name": "pcuser/premos",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
